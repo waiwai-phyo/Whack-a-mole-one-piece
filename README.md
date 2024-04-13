@@ -1,19 +1,19 @@
 # 👒🏴‍☠️☠🍖Whack-A-Mole (One Piece Theme)👒🏴‍☠️☠🍖
 
 ## Flowchart Of Game
-![Flowchart](https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/40fc63d7-90f4-4df9-a1f6-1d23514a3be0)
+![Flowchart](https://github.com/waiwai-phyo/Whack-a-mole-one-piece/assets/153723292/4ebd103c-f283-47e4-83b8-1118fb630c76)
 
 ## Screenshots 
 ### Main screen view
-<img width="1470" alt="mainScreen" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/3cc71d37-5d90-43a9-9857-afd6be7d3970">
+<img width="1470" alt="mainScreen" src="https://github.com/waiwai-phyo/Whack-a-mole-one-piece/assets/153723292/b7437f51-8a9f-463d-9e34-480473786051">
 
 ### Play view
-<img width="1470" alt="Buggy" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/0af6a5ce-a175-4040-aa46-b3e0711825af">
-<img width="1470" alt="Fruit" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/38fd6d9e-204d-4c8c-b034-249710df7337">
-<img width="1470" alt="Bomb" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/bc6d23e9-3cfb-4b67-a515-814422924db8">
+<img width="1470" alt="Buggy" src="https://github.com/waiwai-phyo/Whack-a-mole-one-piece/assets/153723292/3bcb930c-aff9-4188-8bec-308a067cb942">
+<img width="1470" alt="Fruit" src="https://github.com/waiwai-phyo/Whack-a-mole-one-piece/assets/153723292/d129ab34-8243-4ea0-b15a-fc9ef0b6f904">
+<img width="1470" alt="Bomb" src="https://github.com/waiwai-phyo/Whack-a-mole-one-piece/assets/153723292/b154e74f-eac3-498f-8bea-d6b7b24c13d8">
 
 ### High score view and game over!
-<img width="1470" alt="GameOver" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/bdb8e6e1-7c15-4deb-a065-31df2b30ff28">
+<img width="1470" alt="GameOver" src="https://github.com/waiwai-phyo/Whack-a-mole-one-piece/assets/153723292/ed205e94-581c-48e3-a40f-c92532296f6a">
 
 ## Technologies Used
 - HTML5
