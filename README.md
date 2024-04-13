@@ -1,17 +1,19 @@
 # 👒🏴‍☠️☠🍖Whack-A-Mole (One Piece Theme)👒🏴‍☠️☠🍖
 
 ## Flowchart Of Game
-![alt text](Flowchart.png)
+![Flowchart](https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/40fc63d7-90f4-4df9-a1f6-1d23514a3be0)
 
 ## Screenshots 
 ### Main screen view
-
+<img width="1470" alt="mainScreen" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/3cc71d37-5d90-43a9-9857-afd6be7d3970">
 
 ### Play view
-
+<img width="1470" alt="Buggy" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/0af6a5ce-a175-4040-aa46-b3e0711825af">
+<img width="1470" alt="Fruit" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/38fd6d9e-204d-4c8c-b034-249710df7337">
+<img width="1470" alt="Bomb" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/bc6d23e9-3cfb-4b67-a515-814422924db8">
 
 ### High score view and game over!
-
+<img width="1470" alt="GameOver" src="https://github.com/waiwai-phyo/Whack-a-Mole/assets/153723292/bdb8e6e1-7c15-4deb-a065-31df2b30ff28">
 
 ## Technologies Used
 - HTML5
